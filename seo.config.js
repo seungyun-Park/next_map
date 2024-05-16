@@ -18,5 +18,9 @@ export default {
       name : "naver-site-verification" ,
       content: "a3d0278df33a2d2204d162fba00b481702018edf",
     },
+    {
+      name : "google-site-verification"  ,
+      content: "gUyly-LBuDcSEo7PTi7mGeEyvC2FcB2eOybYyQ6Y6-U",
+    }
   ],
 };
